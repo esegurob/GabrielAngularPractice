@@ -1,0 +1,8 @@
+[
+  {"id":1, "name":"Gabriel", "gender":"male", "age":30, "role":"Software Developer"},
+  {"id":2, "name":"Augustine", "gender":"male", "age":25, "role":"K2 Developer"},
+  {"id":3, "name":"Lukeman", "gender":"male", "age":32, "role":"Instructor"},
+  {"id":4, "name":"Musa", "gender":"male", "age":26, "role":"Azure Architect"},
+  {"id":5, "name":"Daniel", "gender":"male", "age":28, "role":"Project Cordinator"},
+  {"id":6, "name":"Gabriela", "gender":"female", "age":40, "role":"Human Resources"}
+]
